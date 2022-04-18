@@ -1,0 +1,6 @@
+.idea/
+venv/
+__pycache__/
+*.z64
+char_cnn/
+*.pkl
